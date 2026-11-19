@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+scrape_run.log
+
+# Graphify machine-specific paths
+graphify-out/.graphify_python
+graphify-out/.graphify_root
+graphify-out/.chunks.json
+graphify-out/.prompts.json
+graphify-out/.temp_labels.json
+graphify-out/scratch*

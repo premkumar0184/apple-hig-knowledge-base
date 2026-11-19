@@ -1,0 +1,1799 @@
+{
+  "generated_at": "2026-11-18T15:08:26.889308+00:00",
+  "total_pages": 179,
+  "ok": 179,
+  "skipped": 0,
+  "errors": 0,
+  "pages": {
+    "https://developer.apple.com/design/human-interface-guidelines": {
+      "url": "https://developer.apple.com/design/human-interface-guidelines",
+      "title": "Human Interface Guidelines",
+      "role": "collection",
+      "identifier": "/design/human-interface-guidelines",
+      "rel_path": "index.md",
+      "scraped_at": "2026-11-18T15:05:22.569592+00:00",
+      "status": "ok",
+      "bytes": 4289
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/getting-started": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/getting-started",
+      "title": "Getting started",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/getting-started",
+      "rel_path": "getting-started/index.md",
+      "scraped_at": "2026-11-18T15:05:23.363282+00:00",
+      "status": "ok",
+      "bytes": 4192
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/design-principles": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/design-principles",
+      "title": "Design principles",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/design-principles",
+      "rel_path": "design-principles/index.md",
+      "scraped_at": "2026-11-18T15:05:24.699715+00:00",
+      "status": "ok",
+      "bytes": 11343
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-macos": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-macos",
+      "title": "Designing for macOS",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-macos",
+      "rel_path": "designing-for-macos/index.md",
+      "scraped_at": "2026-11-18T15:05:25.345083+00:00",
+      "status": "ok",
+      "bytes": 4655
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-iphone-duo": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-iphone-duo",
+      "title": "Designing for iPhone Duo",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-iphone-duo",
+      "rel_path": "designing-for-iphone-duo/index.md",
+      "scraped_at": "2026-11-18T15:05:26.722686+00:00",
+      "status": "ok",
+      "bytes": 23676
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/foundations": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/foundations",
+      "title": "Foundations",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/foundations",
+      "rel_path": "foundations/index.md",
+      "scraped_at": "2026-11-18T15:05:27.353202+00:00",
+      "status": "ok",
+      "bytes": 6975
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/accessibility": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/accessibility",
+      "title": "Accessibility",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/accessibility",
+      "rel_path": "accessibility/index.md",
+      "scraped_at": "2026-11-18T15:05:28.433241+00:00",
+      "status": "ok",
+      "bytes": 26012
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/app-icons": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/app-icons",
+      "title": "App icons",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/app-icons",
+      "rel_path": "app-icons/index.md",
+      "scraped_at": "2026-11-18T15:05:29.428636+00:00",
+      "status": "ok",
+      "bytes": 20775
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/color": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/color",
+      "title": "Color",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/color",
+      "rel_path": "color/index.md",
+      "scraped_at": "2026-11-18T15:05:30.383139+00:00",
+      "status": "ok",
+      "bytes": 41572
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/layout": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/layout",
+      "title": "Layout",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/layout",
+      "rel_path": "layout/index.md",
+      "scraped_at": "2026-11-18T15:05:31.784921+00:00",
+      "status": "ok",
+      "bytes": 26868
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/materials": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/materials",
+      "title": "Materials",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/materials",
+      "rel_path": "materials/index.md",
+      "scraped_at": "2026-11-18T15:05:32.364811+00:00",
+      "status": "ok",
+      "bytes": 21234
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/typography": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/typography",
+      "title": "Typography",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/typography",
+      "rel_path": "typography/index.md",
+      "scraped_at": "2026-11-18T15:05:33.727323+00:00",
+      "status": "ok",
+      "bytes": 75117
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/gestures": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/gestures",
+      "title": "Gestures",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/gestures",
+      "rel_path": "gestures/index.md",
+      "scraped_at": "2026-11-18T15:05:34.352215+00:00",
+      "status": "ok",
+      "bytes": 25289
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/pointing-devices": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/pointing-devices",
+      "title": "Pointing devices",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/pointing-devices",
+      "rel_path": "pointing-devices/index.md",
+      "scraped_at": "2026-11-18T15:05:35.539527+00:00",
+      "status": "ok",
+      "bytes": 53663
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/widgets": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/widgets",
+      "title": "Widgets",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/widgets",
+      "rel_path": "widgets/index.md",
+      "scraped_at": "2026-11-18T15:05:36.871547+00:00",
+      "status": "ok",
+      "bytes": 54118
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/patterns": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/patterns",
+      "title": "Patterns",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/patterns",
+      "rel_path": "patterns/index.md",
+      "scraped_at": "2026-11-18T15:05:37.367319+00:00",
+      "status": "ok",
+      "bytes": 8688
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/components": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/components",
+      "title": "Components",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/components",
+      "rel_path": "components/index.md",
+      "scraped_at": "2026-11-18T15:05:38.440152+00:00",
+      "status": "ok",
+      "bytes": 1240
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/inputs": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/inputs",
+      "title": "Inputs",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/inputs",
+      "rel_path": "inputs/index.md",
+      "scraped_at": "2026-11-18T15:05:39.464476+00:00",
+      "status": "ok",
+      "bytes": 4411
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/technologies": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/technologies",
+      "title": "Technologies",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/technologies",
+      "rel_path": "technologies/index.md",
+      "scraped_at": "2026-11-18T15:05:40.365310+00:00",
+      "status": "ok",
+      "bytes": 10847
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-ios": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-ios",
+      "title": "Designing for iOS",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-ios",
+      "rel_path": "designing-for-ios/index.md",
+      "scraped_at": "2026-11-18T15:05:41.847153+00:00",
+      "status": "ok",
+      "bytes": 4765
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-ipados": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-ipados",
+      "title": "Designing for iPadOS",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-ipados",
+      "rel_path": "designing-for-ipados/index.md",
+      "scraped_at": "2026-11-18T15:05:42.347948+00:00",
+      "status": "ok",
+      "bytes": 4246
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-tvos": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-tvos",
+      "title": "Designing for tvOS",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-tvos",
+      "rel_path": "designing-for-tvos/index.md",
+      "scraped_at": "2026-11-18T15:05:43.386478+00:00",
+      "status": "ok",
+      "bytes": 3797
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-visionos": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-visionos",
+      "title": "Designing for visionOS",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-visionos",
+      "rel_path": "designing-for-visionos/index.md",
+      "scraped_at": "2026-11-18T15:05:44.346711+00:00",
+      "status": "ok",
+      "bytes": 8153
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-watchos": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-watchos",
+      "title": "Designing for watchOS",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-watchos",
+      "rel_path": "designing-for-watchos/index.md",
+      "scraped_at": "2026-11-18T15:05:45.403367+00:00",
+      "status": "ok",
+      "bytes": 5288
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-games": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/designing-for-games",
+      "title": "Designing for games",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/designing-for-games",
+      "rel_path": "designing-for-games/index.md",
+      "scraped_at": "2026-11-18T15:05:46.526826+00:00",
+      "status": "ok",
+      "bytes": 16956
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/keyboards": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/keyboards",
+      "title": "Keyboards",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/keyboards",
+      "rel_path": "keyboards/index.md",
+      "scraped_at": "2026-11-18T15:05:47.861199+00:00",
+      "status": "ok",
+      "bytes": 39531
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/siri": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/siri",
+      "title": "Siri",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/siri",
+      "rel_path": "siri/index.md",
+      "scraped_at": "2026-11-18T15:05:48.365065+00:00",
+      "status": "ok",
+      "bytes": 15418
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/game-controls": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/game-controls",
+      "title": "Game controls",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/game-controls",
+      "rel_path": "game-controls/index.md",
+      "scraped_at": "2026-11-18T15:05:49.875227+00:00",
+      "status": "ok",
+      "bytes": 15118
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/the-menu-bar": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/the-menu-bar",
+      "title": "The menu bar",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/the-menu-bar",
+      "rel_path": "the-menu-bar/index.md",
+      "scraped_at": "2026-11-18T15:05:50.797608+00:00",
+      "status": "ok",
+      "bytes": 49727
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/file-management": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/file-management",
+      "title": "File management",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/file-management",
+      "rel_path": "file-management/index.md",
+      "scraped_at": "2026-11-18T15:05:51.411167+00:00",
+      "status": "ok",
+      "bytes": 12429
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/going-full-screen": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/going-full-screen",
+      "title": "Going full screen",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/going-full-screen",
+      "rel_path": "going-full-screen/index.md",
+      "scraped_at": "2026-11-18T15:05:52.464583+00:00",
+      "status": "ok",
+      "bytes": 7998
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/dock-menus": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/dock-menus",
+      "title": "Dock menus",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/dock-menus",
+      "rel_path": "dock-menus/index.md",
+      "scraped_at": "2026-11-18T15:05:53.397471+00:00",
+      "status": "ok",
+      "bytes": 2512
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/split-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/split-views",
+      "title": "Split views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/split-views",
+      "rel_path": "split-views/index.md",
+      "scraped_at": "2026-11-18T15:05:54.414944+00:00",
+      "status": "ok",
+      "bytes": 8928
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/toolbars": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/toolbars",
+      "title": "Toolbars",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/toolbars",
+      "rel_path": "toolbars/index.md",
+      "scraped_at": "2026-11-18T15:05:55.360204+00:00",
+      "status": "ok",
+      "bytes": 22769
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/branding": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/branding",
+      "title": "Branding",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/branding",
+      "rel_path": "branding/index.md",
+      "scraped_at": "2026-11-18T15:05:56.556246+00:00",
+      "status": "ok",
+      "bytes": 5826
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/dark-mode": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/dark-mode",
+      "title": "Dark Mode",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/dark-mode",
+      "rel_path": "dark-mode/index.md",
+      "scraped_at": "2026-11-18T15:05:57.384355+00:00",
+      "status": "ok",
+      "bytes": 11538
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/icons": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/icons",
+      "title": "Icons",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/icons",
+      "rel_path": "icons/index.md",
+      "scraped_at": "2026-11-18T15:05:58.388269+00:00",
+      "status": "ok",
+      "bytes": 26604
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/images": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/images",
+      "title": "Images",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/images",
+      "rel_path": "images/index.md",
+      "scraped_at": "2026-11-18T15:05:59.551443+00:00",
+      "status": "ok",
+      "bytes": 16697
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/immersive-experiences": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/immersive-experiences",
+      "title": "Immersive experiences",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/immersive-experiences",
+      "rel_path": "immersive-experiences/index.md",
+      "scraped_at": "2026-11-18T15:06:00.422862+00:00",
+      "status": "ok",
+      "bytes": 19574
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/inclusion": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/inclusion",
+      "title": "Inclusion",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/inclusion",
+      "rel_path": "inclusion/index.md",
+      "scraped_at": "2026-11-18T15:06:01.377964+00:00",
+      "status": "ok",
+      "bytes": 16541
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/motion": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/motion",
+      "title": "Motion",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/motion",
+      "rel_path": "motion/index.md",
+      "scraped_at": "2026-11-18T15:06:02.372576+00:00",
+      "status": "ok",
+      "bytes": 9446
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/privacy": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/privacy",
+      "title": "Privacy",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/privacy",
+      "rel_path": "privacy/index.md",
+      "scraped_at": "2026-11-18T15:06:03.359383+00:00",
+      "status": "ok",
+      "bytes": 23689
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/right-to-left": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/right-to-left",
+      "title": "Right to left",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/right-to-left",
+      "rel_path": "right-to-left/index.md",
+      "scraped_at": "2026-11-18T15:06:04.360715+00:00",
+      "status": "ok",
+      "bytes": 24744
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/sf-symbols": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/sf-symbols",
+      "title": "SF Symbols",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/sf-symbols",
+      "rel_path": "sf-symbols/index.md",
+      "scraped_at": "2026-11-18T15:06:05.554633+00:00",
+      "status": "ok",
+      "bytes": 33136
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/spatial-layout": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/spatial-layout",
+      "title": "Spatial layout",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/spatial-layout",
+      "rel_path": "spatial-layout/index.md",
+      "scraped_at": "2026-11-18T15:06:06.490597+00:00",
+      "status": "ok",
+      "bytes": 12984
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/writing": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/writing",
+      "title": "Writing",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/writing",
+      "rel_path": "writing/index.md",
+      "scraped_at": "2026-11-18T15:06:07.412555+00:00",
+      "status": "ok",
+      "bytes": 11427
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/voiceover": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/voiceover",
+      "title": "VoiceOver",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/voiceover",
+      "rel_path": "voiceover/index.md",
+      "scraped_at": "2026-11-18T15:06:08.505941+00:00",
+      "status": "ok",
+      "bytes": 8195
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/playing-haptics": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/playing-haptics",
+      "title": "Playing haptics",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/playing-haptics",
+      "rel_path": "playing-haptics/index.md",
+      "scraped_at": "2026-11-18T15:06:09.536395+00:00",
+      "status": "ok",
+      "bytes": 18235
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/sidebars": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/sidebars",
+      "title": "Sidebars",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/sidebars",
+      "rel_path": "sidebars/index.md",
+      "scraped_at": "2026-11-18T15:06:10.457855+00:00",
+      "status": "ok",
+      "bytes": 9600
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/complications": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/complications",
+      "title": "Complications",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/complications",
+      "rel_path": "complications/index.md",
+      "scraped_at": "2026-11-18T15:06:11.700646+00:00",
+      "status": "ok",
+      "bytes": 35508
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/scroll-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/scroll-views",
+      "title": "Scroll views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/scroll-views",
+      "rel_path": "scroll-views/index.md",
+      "scraped_at": "2026-11-18T15:06:12.540166+00:00",
+      "status": "ok",
+      "bytes": 14916
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/windows": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/windows",
+      "title": "Windows",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/windows",
+      "rel_path": "windows/index.md",
+      "scraped_at": "2026-11-18T15:06:13.583805+00:00",
+      "status": "ok",
+      "bytes": 19215
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/multitasking": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/multitasking",
+      "title": "Multitasking",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/multitasking",
+      "rel_path": "multitasking/index.md",
+      "scraped_at": "2026-11-18T15:06:14.485148+00:00",
+      "status": "ok",
+      "bytes": 9959
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/tab-bars": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/tab-bars",
+      "title": "Tab bars",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/tab-bars",
+      "rel_path": "tab-bars/index.md",
+      "scraped_at": "2026-11-18T15:06:16.090691+00:00",
+      "status": "ok",
+      "bytes": 13458
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/ornaments": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/ornaments",
+      "title": "Ornaments",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/ornaments",
+      "rel_path": "ornaments/index.md",
+      "scraped_at": "2026-11-18T15:06:16.563557+00:00",
+      "status": "ok",
+      "bytes": 4471
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/eyes": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/eyes",
+      "title": "Eyes",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/eyes",
+      "rel_path": "eyes/index.md",
+      "scraped_at": "2026-11-18T15:06:17.659831+00:00",
+      "status": "ok",
+      "bytes": 11760
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/buttons": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/buttons",
+      "title": "Buttons",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/buttons",
+      "rel_path": "buttons/index.md",
+      "scraped_at": "2026-11-18T15:06:18.752481+00:00",
+      "status": "ok",
+      "bytes": 23560
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/layout-and-organization": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/layout-and-organization",
+      "title": "Layout and organization",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/layout-and-organization",
+      "rel_path": "layout-and-organization/index.md",
+      "scraped_at": "2026-11-18T15:06:19.572436+00:00",
+      "status": "ok",
+      "bytes": 3369
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/sliders": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/sliders",
+      "title": "Sliders",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/sliders",
+      "rel_path": "sliders/index.md",
+      "scraped_at": "2026-11-18T15:06:20.595487+00:00",
+      "status": "ok",
+      "bytes": 7635
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/toggles": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/toggles",
+      "title": "Toggles",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/toggles",
+      "rel_path": "toggles/index.md",
+      "scraped_at": "2026-11-18T15:06:21.653218+00:00",
+      "status": "ok",
+      "bytes": 12148
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/apple-pencil-and-scribble": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/apple-pencil-and-scribble",
+      "title": "Apple Pencil and Scribble",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/apple-pencil-and-scribble",
+      "rel_path": "apple-pencil-and-scribble/index.md",
+      "scraped_at": "2026-11-18T15:06:22.779799+00:00",
+      "status": "ok",
+      "bytes": 18368
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/remotes": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/remotes",
+      "title": "Remotes",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/remotes",
+      "rel_path": "remotes/index.md",
+      "scraped_at": "2026-11-18T15:06:23.687685+00:00",
+      "status": "ok",
+      "bytes": 7608
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/notifications": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/notifications",
+      "title": "Notifications",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/notifications",
+      "rel_path": "notifications/index.md",
+      "scraped_at": "2026-11-18T15:06:24.794362+00:00",
+      "status": "ok",
+      "bytes": 16610
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/feedback": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/feedback",
+      "title": "Feedback",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/feedback",
+      "rel_path": "feedback/index.md",
+      "scraped_at": "2026-11-18T15:06:26.137290+00:00",
+      "status": "ok",
+      "bytes": 4763
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/context-menus": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/context-menus",
+      "title": "Context menus",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/context-menus",
+      "rel_path": "context-menus/index.md",
+      "scraped_at": "2026-11-18T15:06:26.731949+00:00",
+      "status": "ok",
+      "bytes": 9968
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/entering-data": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/entering-data",
+      "title": "Entering data",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/entering-data",
+      "rel_path": "entering-data/index.md",
+      "scraped_at": "2026-11-18T15:06:27.653685+00:00",
+      "status": "ok",
+      "bytes": 5481
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/live-activities": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/live-activities",
+      "title": "Live Activities",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/live-activities",
+      "rel_path": "live-activities/index.md",
+      "scraped_at": "2026-11-18T15:06:28.923950+00:00",
+      "status": "ok",
+      "bytes": 37465
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/charting-data": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/charting-data",
+      "title": "Charting data",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/charting-data",
+      "rel_path": "charting-data/index.md",
+      "scraped_at": "2026-11-18T15:06:29.660100+00:00",
+      "status": "ok",
+      "bytes": 8469
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/collaboration-and-sharing": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/collaboration-and-sharing",
+      "title": "Collaboration and sharing",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/collaboration-and-sharing",
+      "rel_path": "collaboration-and-sharing/index.md",
+      "scraped_at": "2026-11-18T15:06:30.646919+00:00",
+      "status": "ok",
+      "bytes": 9096
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/drag-and-drop": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/drag-and-drop",
+      "title": "Drag and drop",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/drag-and-drop",
+      "rel_path": "drag-and-drop/index.md",
+      "scraped_at": "2026-11-18T15:06:31.791723+00:00",
+      "status": "ok",
+      "bytes": 15952
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/launching": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/launching",
+      "title": "Launching",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/launching",
+      "rel_path": "launching/index.md",
+      "scraped_at": "2026-11-18T15:06:32.691291+00:00",
+      "status": "ok",
+      "bytes": 6089
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/live-viewing-apps": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/live-viewing-apps",
+      "title": "Live-viewing apps",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/live-viewing-apps",
+      "rel_path": "live-viewing-apps/index.md",
+      "scraped_at": "2026-11-18T15:06:33.656119+00:00",
+      "status": "ok",
+      "bytes": 7181
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/loading": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/loading",
+      "title": "Loading",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/loading",
+      "rel_path": "loading/index.md",
+      "scraped_at": "2026-11-18T15:06:34.596392+00:00",
+      "status": "ok",
+      "bytes": 4470
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/managing-accounts": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/managing-accounts",
+      "title": "Managing accounts",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/managing-accounts",
+      "rel_path": "managing-accounts/index.md",
+      "scraped_at": "2026-11-18T15:06:35.708771+00:00",
+      "status": "ok",
+      "bytes": 9652
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/managing-notifications": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/managing-notifications",
+      "title": "Managing notifications",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/managing-notifications",
+      "rel_path": "managing-notifications/index.md",
+      "scraped_at": "2026-11-18T15:06:36.694504+00:00",
+      "status": "ok",
+      "bytes": 8353
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/modality": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/modality",
+      "title": "Modality",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/modality",
+      "rel_path": "modality/index.md",
+      "scraped_at": "2026-11-18T15:06:37.812638+00:00",
+      "status": "ok",
+      "bytes": 6641
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/offering-help": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/offering-help",
+      "title": "Offering help",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/offering-help",
+      "rel_path": "offering-help/index.md",
+      "scraped_at": "2026-11-18T15:06:38.862311+00:00",
+      "status": "ok",
+      "bytes": 9871
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/onboarding": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/onboarding",
+      "title": "Onboarding",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/onboarding",
+      "rel_path": "onboarding/index.md",
+      "scraped_at": "2026-11-18T15:06:39.710360+00:00",
+      "status": "ok",
+      "bytes": 6016
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/playing-audio": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/playing-audio",
+      "title": "Playing audio",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/playing-audio",
+      "rel_path": "playing-audio/index.md",
+      "scraped_at": "2026-11-18T15:06:40.973970+00:00",
+      "status": "ok",
+      "bytes": 15530
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/playing-video": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/playing-video",
+      "title": "Playing video",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/playing-video",
+      "rel_path": "playing-video/index.md",
+      "scraped_at": "2026-11-18T15:06:42.031696+00:00",
+      "status": "ok",
+      "bytes": 18677
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/printing": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/printing",
+      "title": "Printing",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/printing",
+      "rel_path": "printing/index.md",
+      "scraped_at": "2026-11-18T15:06:42.633617+00:00",
+      "status": "ok",
+      "bytes": 4153
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/ratings-and-reviews": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/ratings-and-reviews",
+      "title": "Ratings and reviews",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/ratings-and-reviews",
+      "rel_path": "ratings-and-reviews/index.md",
+      "scraped_at": "2026-11-18T15:06:43.646833+00:00",
+      "status": "ok",
+      "bytes": 4324
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/searching": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/searching",
+      "title": "Searching",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/searching",
+      "rel_path": "searching/index.md",
+      "scraped_at": "2026-11-18T15:06:44.762580+00:00",
+      "status": "ok",
+      "bytes": 5947
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/settings": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/settings",
+      "title": "Settings",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/settings",
+      "rel_path": "settings/index.md",
+      "scraped_at": "2026-11-18T15:06:45.922676+00:00",
+      "status": "ok",
+      "bytes": 7800
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/undo-and-redo": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/undo-and-redo",
+      "title": "Undo and redo",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/undo-and-redo",
+      "rel_path": "undo-and-redo/index.md",
+      "scraped_at": "2026-11-18T15:06:46.710225+00:00",
+      "status": "ok",
+      "bytes": 5003
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/workouts": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/workouts",
+      "title": "Workouts",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/workouts",
+      "rel_path": "workouts/index.md",
+      "scraped_at": "2026-11-18T15:06:47.732355+00:00",
+      "status": "ok",
+      "bytes": 6678
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/content": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/content",
+      "title": "Content",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/content",
+      "rel_path": "content/index.md",
+      "scraped_at": "2026-11-18T15:06:48.584964+00:00",
+      "status": "ok",
+      "bytes": 1511
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/menus-and-actions": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/menus-and-actions",
+      "title": "Menus and actions",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/menus-and-actions",
+      "rel_path": "menus-and-actions/index.md",
+      "scraped_at": "2026-11-18T15:06:49.629057+00:00",
+      "status": "ok",
+      "bytes": 4055
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/navigation-and-search": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/navigation-and-search",
+      "title": "Navigation and search",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/navigation-and-search",
+      "rel_path": "navigation-and-search/index.md",
+      "scraped_at": "2026-11-18T15:06:50.544653+00:00",
+      "status": "ok",
+      "bytes": 1855
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/presentation": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/presentation",
+      "title": "Presentation",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/presentation",
+      "rel_path": "presentation/index.md",
+      "scraped_at": "2026-11-18T15:06:51.753294+00:00",
+      "status": "ok",
+      "bytes": 2627
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/selection-and-input": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/selection-and-input",
+      "title": "Selection and input",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/selection-and-input",
+      "rel_path": "selection-and-input/index.md",
+      "scraped_at": "2026-11-18T15:06:52.665123+00:00",
+      "status": "ok",
+      "bytes": 3529
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/status": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/status",
+      "title": "Status",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/status",
+      "rel_path": "status/index.md",
+      "scraped_at": "2026-11-18T15:06:53.559736+00:00",
+      "status": "ok",
+      "bytes": 1593
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/system-experiences": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/system-experiences",
+      "title": "System experiences",
+      "role": "collectionGroup",
+      "identifier": "/design/Human-Interface-Guidelines/system-experiences",
+      "rel_path": "system-experiences/index.md",
+      "scraped_at": "2026-11-18T15:06:54.785189+00:00",
+      "status": "ok",
+      "bytes": 3561
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/action-button": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/action-button",
+      "title": "Action button",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/action-button",
+      "rel_path": "action-button/index.md",
+      "scraped_at": "2026-11-18T15:06:55.785877+00:00",
+      "status": "ok",
+      "bytes": 5663
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/camera-control": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/camera-control",
+      "title": "Camera Control",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/camera-control",
+      "rel_path": "camera-control/index.md",
+      "scraped_at": "2026-11-18T15:06:56.755942+00:00",
+      "status": "ok",
+      "bytes": 8026
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/digital-crown": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/digital-crown",
+      "title": "Digital Crown",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/digital-crown",
+      "rel_path": "digital-crown/index.md",
+      "scraped_at": "2026-11-18T15:06:57.893316+00:00",
+      "status": "ok",
+      "bytes": 6429
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/focus-and-selection": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/focus-and-selection",
+      "title": "Focus and selection",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/focus-and-selection",
+      "rel_path": "focus-and-selection/index.md",
+      "scraped_at": "2026-11-18T15:06:58.927267+00:00",
+      "status": "ok",
+      "bytes": 15667
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/gyro-and-accelerometer": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/gyro-and-accelerometer",
+      "title": "Gyroscope and accelerometer",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/gyro-and-accelerometer",
+      "rel_path": "gyro-and-accelerometer/index.md",
+      "scraped_at": "2026-11-18T15:06:59.619083+00:00",
+      "status": "ok",
+      "bytes": 2388
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/nearby-interactions": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/nearby-interactions",
+      "title": "Nearby interactions",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/nearby-interactions",
+      "rel_path": "nearby-interactions/index.md",
+      "scraped_at": "2026-11-18T15:07:00.714219+00:00",
+      "status": "ok",
+      "bytes": 6831
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/airplay": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/airplay",
+      "title": "AirPlay",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/airplay",
+      "rel_path": "airplay/index.md",
+      "scraped_at": "2026-11-18T15:07:01.724396+00:00",
+      "status": "ok",
+      "bytes": 10184
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/always-on": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/always-on",
+      "title": "Always On",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/always-on",
+      "rel_path": "always-on/index.md",
+      "scraped_at": "2026-11-18T15:07:02.712382+00:00",
+      "status": "ok",
+      "bytes": 4863
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/app-clips": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/app-clips",
+      "title": "App Clips",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/app-clips",
+      "rel_path": "app-clips/index.md",
+      "scraped_at": "2026-11-18T15:07:04.816670+00:00",
+      "status": "ok",
+      "bytes": 37114
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/apple-in-app-purchase": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/apple-in-app-purchase",
+      "title": "Apple In-App Purchase",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/apple-in-app-purchase",
+      "rel_path": "apple-in-app-purchase/index.md",
+      "scraped_at": "2026-11-18T15:07:05.629506+00:00",
+      "status": "ok",
+      "bytes": 30569
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/apple-pay": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/apple-pay",
+      "title": "Apple Pay",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/apple-pay",
+      "rel_path": "apple-pay/index.md",
+      "scraped_at": "2026-11-18T15:07:06.828377+00:00",
+      "status": "ok",
+      "bytes": 44966
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/augmented-reality": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/augmented-reality",
+      "title": "Augmented reality",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/augmented-reality",
+      "rel_path": "augmented-reality/index.md",
+      "scraped_at": "2026-11-18T15:07:08.051089+00:00",
+      "status": "ok",
+      "bytes": 30449
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/carekit": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/carekit",
+      "title": "CareKit",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/carekit",
+      "rel_path": "carekit/index.md",
+      "scraped_at": "2026-11-18T15:07:08.893300+00:00",
+      "status": "ok",
+      "bytes": 23123
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/carplay": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/carplay",
+      "title": "CarPlay",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/carplay",
+      "rel_path": "carplay/index.md",
+      "scraped_at": "2026-11-18T15:07:09.712568+00:00",
+      "status": "ok",
+      "bytes": 9515
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/game-center": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/game-center",
+      "title": "Game Center",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/game-center",
+      "rel_path": "game-center/index.md",
+      "scraped_at": "2026-11-18T15:07:10.724871+00:00",
+      "status": "ok",
+      "bytes": 25344
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/generative-ai": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/generative-ai",
+      "title": "Generative AI",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/generative-ai",
+      "rel_path": "generative-ai/index.md",
+      "scraped_at": "2026-11-18T15:07:12.546884+00:00",
+      "status": "ok",
+      "bytes": 19087
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/healthkit": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/healthkit",
+      "title": "HealthKit",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/healthkit",
+      "rel_path": "healthkit/index.md",
+      "scraped_at": "2026-11-18T15:07:13.127722+00:00",
+      "status": "ok",
+      "bytes": 11442
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/homekit": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/homekit",
+      "title": "HomeKit",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/homekit",
+      "rel_path": "homekit/index.md",
+      "scraped_at": "2026-11-18T15:07:14.246673+00:00",
+      "status": "ok",
+      "bytes": 31068
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/icloud": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/icloud",
+      "title": "iCloud",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/icloud",
+      "rel_path": "icloud/index.md",
+      "scraped_at": "2026-11-18T15:07:15.073639+00:00",
+      "status": "ok",
+      "bytes": 5411
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/id-verifier": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/id-verifier",
+      "title": "ID Verifier",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/id-verifier",
+      "rel_path": "id-verifier/index.md",
+      "scraped_at": "2026-11-18T15:07:16.097407+00:00",
+      "status": "ok",
+      "bytes": 6133
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/imessage-apps-and-stickers": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/imessage-apps-and-stickers",
+      "title": "iMessage apps and stickers",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/imessage-apps-and-stickers",
+      "rel_path": "imessage-apps-and-stickers/index.md",
+      "scraped_at": "2026-11-18T15:07:17.052573+00:00",
+      "status": "ok",
+      "bytes": 6799
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/live-photos": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/live-photos",
+      "title": "Live Photos",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/live-photos",
+      "rel_path": "live-photos/index.md",
+      "scraped_at": "2026-11-18T15:07:18.032923+00:00",
+      "status": "ok",
+      "bytes": 3796
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/mac-catalyst": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/mac-catalyst",
+      "title": "Mac Catalyst",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/mac-catalyst",
+      "rel_path": "mac-catalyst/index.md",
+      "scraped_at": "2026-11-18T15:07:19.141112+00:00",
+      "status": "ok",
+      "bytes": 14473
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/machine-learning": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/machine-learning",
+      "title": "Machine learning",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/machine-learning",
+      "rel_path": "machine-learning/index.md",
+      "scraped_at": "2026-11-18T15:07:21.112424+00:00",
+      "status": "ok",
+      "bytes": 41860
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/maps": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/maps",
+      "title": "Maps",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/maps",
+      "rel_path": "maps/index.md",
+      "scraped_at": "2026-11-18T15:07:21.759578+00:00",
+      "status": "ok",
+      "bytes": 21466
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/nfc": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/nfc",
+      "title": "NFC",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/nfc",
+      "rel_path": "nfc/index.md",
+      "scraped_at": "2026-11-18T15:07:22.650749+00:00",
+      "status": "ok",
+      "bytes": 4533
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/photo-editing": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/photo-editing",
+      "title": "Photo editing",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/photo-editing",
+      "rel_path": "photo-editing/index.md",
+      "scraped_at": "2026-11-18T15:07:23.606238+00:00",
+      "status": "ok",
+      "bytes": 2621
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/researchkit": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/researchkit",
+      "title": "ResearchKit",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/researchkit",
+      "rel_path": "researchkit/index.md",
+      "scraped_at": "2026-11-18T15:07:24.691245+00:00",
+      "status": "ok",
+      "bytes": 11422
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/shareplay": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/shareplay",
+      "title": "SharePlay",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/shareplay",
+      "rel_path": "shareplay/index.md",
+      "scraped_at": "2026-11-18T15:07:26.235100+00:00",
+      "status": "ok",
+      "bytes": 18431
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/shazamkit": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/shazamkit",
+      "title": "ShazamKit",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/shazamkit",
+      "rel_path": "shazamkit/index.md",
+      "scraped_at": "2026-11-18T15:07:27.876809+00:00",
+      "status": "ok",
+      "bytes": 2823
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/sign-in-with-apple": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/sign-in-with-apple",
+      "title": "Sign in with Apple",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/sign-in-with-apple",
+      "rel_path": "sign-in-with-apple/index.md",
+      "scraped_at": "2026-11-18T15:07:28.981980+00:00",
+      "status": "ok",
+      "bytes": 25799
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/tap-to-pay-on-iphone": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/tap-to-pay-on-iphone",
+      "title": "Tap to Pay on iPhone",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/tap-to-pay-on-iphone",
+      "rel_path": "tap-to-pay-on-iphone/index.md",
+      "scraped_at": "2026-11-18T15:07:30.295708+00:00",
+      "status": "ok",
+      "bytes": 20029
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/wallet": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/wallet",
+      "title": "Wallet",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/wallet",
+      "rel_path": "wallet/index.md",
+      "scraped_at": "2026-11-18T15:07:31.593612+00:00",
+      "status": "ok",
+      "bytes": 52917
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/home-screen-quick-actions": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/home-screen-quick-actions",
+      "title": "Home Screen quick actions",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/home-screen-quick-actions",
+      "rel_path": "home-screen-quick-actions/index.md",
+      "scraped_at": "2026-11-18T15:07:32.104919+00:00",
+      "status": "ok",
+      "bytes": 3936
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/activity-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/activity-views",
+      "title": "Activity views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/activity-views",
+      "rel_path": "activity-views/index.md",
+      "scraped_at": "2026-11-18T15:07:33.156610+00:00",
+      "status": "ok",
+      "bytes": 8120
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/top-shelf": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/top-shelf",
+      "title": "Top Shelf",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/top-shelf",
+      "rel_path": "top-shelf/index.md",
+      "scraped_at": "2026-11-18T15:07:34.256780+00:00",
+      "status": "ok",
+      "bytes": 11395
+    },
+    "https://developer.apple.com/design/human-interface-guidelines/gestures": {
+      "url": "https://developer.apple.com/design/human-interface-guidelines/gestures",
+      "title": "Gestures",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/gestures",
+      "rel_path": "gestures/index.md",
+      "scraped_at": "2026-11-18T15:07:35.667647+00:00",
+      "status": "ok",
+      "bytes": 25289
+    },
+    "https://developer.apple.com/design/human-interface-guidelines/siri": {
+      "url": "https://developer.apple.com/design/human-interface-guidelines/siri",
+      "title": "Siri",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/siri",
+      "rel_path": "siri/index.md",
+      "scraped_at": "2026-11-18T15:07:36.571722+00:00",
+      "status": "ok",
+      "bytes": 15418
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/watch-faces": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/watch-faces",
+      "title": "Watch faces",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/watch-faces",
+      "rel_path": "watch-faces/index.md",
+      "scraped_at": "2026-11-18T15:07:37.908288+00:00",
+      "status": "ok",
+      "bytes": 4322
+    },
+    "https://developer.apple.com/design/human-interface-guidelines/complications": {
+      "url": "https://developer.apple.com/design/human-interface-guidelines/complications",
+      "title": "Complications",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/complications",
+      "rel_path": "complications/index.md",
+      "scraped_at": "2026-11-18T15:07:39.025576+00:00",
+      "status": "ok",
+      "bytes": 35508
+    },
+    "https://developer.apple.com/design/human-interface-guidelines/notifications": {
+      "url": "https://developer.apple.com/design/human-interface-guidelines/notifications",
+      "title": "Notifications",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/notifications",
+      "rel_path": "notifications/index.md",
+      "scraped_at": "2026-11-18T15:07:39.968877+00:00",
+      "status": "ok",
+      "bytes": 16610
+    },
+    "https://developer.apple.com/design/human-interface-guidelines/color": {
+      "url": "https://developer.apple.com/design/human-interface-guidelines/color",
+      "title": "Color",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/color",
+      "rel_path": "color/index.md",
+      "scraped_at": "2026-11-18T15:07:41.131028+00:00",
+      "status": "ok",
+      "bytes": 41572
+    },
+    "https://developer.apple.com/design/human-interface-guidelines/materials": {
+      "url": "https://developer.apple.com/design/human-interface-guidelines/materials",
+      "title": "Materials",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/materials",
+      "rel_path": "materials/index.md",
+      "scraped_at": "2026-11-18T15:07:42.097776+00:00",
+      "status": "ok",
+      "bytes": 21234
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/menus": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/menus",
+      "title": "Menus",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/menus",
+      "rel_path": "menus/index.md",
+      "scraped_at": "2026-11-18T15:07:42.931416+00:00",
+      "status": "ok",
+      "bytes": 17697
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/virtual-keyboards": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/virtual-keyboards",
+      "title": "Virtual keyboards",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/virtual-keyboards",
+      "rel_path": "virtual-keyboards/index.md",
+      "scraped_at": "2026-11-18T15:07:43.745269+00:00",
+      "status": "ok",
+      "bytes": 15234
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/app-shortcuts": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/app-shortcuts",
+      "title": "App Shortcuts",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/app-shortcuts",
+      "rel_path": "app-shortcuts/index.md",
+      "scraped_at": "2026-11-18T15:07:44.760079+00:00",
+      "status": "ok",
+      "bytes": 10442
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/snippets": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/snippets",
+      "title": "Snippets",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/snippets",
+      "rel_path": "snippets/index.md",
+      "scraped_at": "2026-11-18T15:07:45.724208+00:00",
+      "status": "ok",
+      "bytes": 6428
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/panels": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/panels",
+      "title": "Panels",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/panels",
+      "rel_path": "panels/index.md",
+      "scraped_at": "2026-11-18T15:07:46.714412+00:00",
+      "status": "ok",
+      "bytes": 6619
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/status-bars": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/status-bars",
+      "title": "Status bars",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/status-bars",
+      "rel_path": "status-bars/index.md",
+      "scraped_at": "2026-11-18T15:07:47.636250+00:00",
+      "status": "ok",
+      "bytes": 3047
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/popovers": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/popovers",
+      "title": "Popovers",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/popovers",
+      "rel_path": "popovers/index.md",
+      "scraped_at": "2026-11-18T15:07:48.695501+00:00",
+      "status": "ok",
+      "bytes": 5687
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/sheets": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/sheets",
+      "title": "Sheets",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/sheets",
+      "rel_path": "sheets/index.md",
+      "scraped_at": "2026-11-18T15:07:49.718863+00:00",
+      "status": "ok",
+      "bytes": 16036
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/search-fields": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/search-fields",
+      "title": "Search fields",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/search-fields",
+      "rel_path": "search-fields/index.md",
+      "scraped_at": "2026-11-18T15:07:50.801595+00:00",
+      "status": "ok",
+      "bytes": 16589
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/pull-down-buttons": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/pull-down-buttons",
+      "title": "Pull-down buttons",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/pull-down-buttons",
+      "rel_path": "pull-down-buttons/index.md",
+      "scraped_at": "2026-11-18T15:07:51.775947+00:00",
+      "status": "ok",
+      "bytes": 5620
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/alerts": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/alerts",
+      "title": "Alerts",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/alerts",
+      "rel_path": "alerts/index.md",
+      "scraped_at": "2026-11-18T15:07:52.800146+00:00",
+      "status": "ok",
+      "bytes": 12643
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/action-sheets": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/action-sheets",
+      "title": "Action sheets",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/action-sheets",
+      "rel_path": "action-sheets/index.md",
+      "scraped_at": "2026-11-18T15:07:53.704349+00:00",
+      "status": "ok",
+      "bytes": 5870
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/text-fields": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/text-fields",
+      "title": "Text fields",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/text-fields",
+      "rel_path": "text-fields/index.md",
+      "scraped_at": "2026-11-18T15:07:54.711347+00:00",
+      "status": "ok",
+      "bytes": 6962
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/disclosure-controls": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/disclosure-controls",
+      "title": "Disclosure controls",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/disclosure-controls",
+      "rel_path": "disclosure-controls/index.md",
+      "scraped_at": "2026-11-18T15:07:55.656985+00:00",
+      "status": "ok",
+      "bytes": 5152
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/page-controls": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/page-controls",
+      "title": "Page controls",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/page-controls",
+      "rel_path": "page-controls/index.md",
+      "scraped_at": "2026-11-18T15:07:56.852560+00:00",
+      "status": "ok",
+      "bytes": 10439
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/tab-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/tab-views",
+      "title": "Tab views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/tab-views",
+      "rel_path": "tab-views/index.md",
+      "scraped_at": "2026-11-18T15:07:57.664661+00:00",
+      "status": "ok",
+      "bytes": 4503
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/pop-up-buttons": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/pop-up-buttons",
+      "title": "Pop-up buttons",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/pop-up-buttons",
+      "rel_path": "pop-up-buttons/index.md",
+      "scraped_at": "2026-11-18T15:07:58.626903+00:00",
+      "status": "ok",
+      "bytes": 4351
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/segmented-controls": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/segmented-controls",
+      "title": "Segmented controls",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/segmented-controls",
+      "rel_path": "segmented-controls/index.md",
+      "scraped_at": "2026-11-18T15:08:00.674416+00:00",
+      "status": "ok",
+      "bytes": 8165
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/labels": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/labels",
+      "title": "Labels",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/labels",
+      "rel_path": "labels/index.md",
+      "scraped_at": "2026-11-18T15:08:01.242285+00:00",
+      "status": "ok",
+      "bytes": 6721
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/boxes": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/boxes",
+      "title": "Boxes",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/boxes",
+      "rel_path": "boxes/index.md",
+      "scraped_at": "2026-11-18T15:08:02.210832+00:00",
+      "status": "ok",
+      "bytes": 2529
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/collections": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/collections",
+      "title": "Collections",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/collections",
+      "rel_path": "collections/index.md",
+      "scraped_at": "2026-11-18T15:08:03.595717+00:00",
+      "status": "ok",
+      "bytes": 2805
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/column-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/column-views",
+      "title": "Column views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/column-views",
+      "rel_path": "column-views/index.md",
+      "scraped_at": "2026-11-18T15:08:04.224681+00:00",
+      "status": "ok",
+      "bytes": 2747
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/lists-and-tables": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/lists-and-tables",
+      "title": "Lists and tables",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/lists-and-tables",
+      "rel_path": "lists-and-tables/index.md",
+      "scraped_at": "2026-11-18T15:08:05.312810+00:00",
+      "status": "ok",
+      "bytes": 9449
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/lockups": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/lockups",
+      "title": "Lockups",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/lockups",
+      "rel_path": "lockups/index.md",
+      "scraped_at": "2026-11-18T15:08:06.152406+00:00",
+      "status": "ok",
+      "bytes": 4887
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/outline-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/outline-views",
+      "title": "Outline views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/outline-views",
+      "rel_path": "outline-views/index.md",
+      "scraped_at": "2026-11-18T15:08:07.297135+00:00",
+      "status": "ok",
+      "bytes": 5261
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/steppers": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/steppers",
+      "title": "Steppers",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/steppers",
+      "rel_path": "steppers/index.md",
+      "scraped_at": "2026-11-18T15:08:08.286874+00:00",
+      "status": "ok",
+      "bytes": 2164
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/pickers": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/pickers",
+      "title": "Pickers",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/pickers",
+      "rel_path": "pickers/index.md",
+      "scraped_at": "2026-11-18T15:08:09.242602+00:00",
+      "status": "ok",
+      "bytes": 8390
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/edit-menus": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/edit-menus",
+      "title": "Edit menus",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/edit-menus",
+      "rel_path": "edit-menus/index.md",
+      "scraped_at": "2026-11-18T15:08:10.267159+00:00",
+      "status": "ok",
+      "bytes": 6839
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/charts": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/charts",
+      "title": "Charts",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/charts",
+      "rel_path": "charts/index.md",
+      "scraped_at": "2026-11-18T15:08:12.167896+00:00",
+      "status": "ok",
+      "bytes": 23010
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/progress-indicators": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/progress-indicators",
+      "title": "Progress indicators",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/progress-indicators",
+      "rel_path": "progress-indicators/index.md",
+      "scraped_at": "2026-11-18T15:08:13.338802+00:00",
+      "status": "ok",
+      "bytes": 9366
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/activity-rings": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/activity-rings",
+      "title": "Activity rings",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/activity-rings",
+      "rel_path": "activity-rings/index.md",
+      "scraped_at": "2026-11-18T15:08:14.430537+00:00",
+      "status": "ok",
+      "bytes": 8041
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/image-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/image-views",
+      "title": "Image views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/image-views",
+      "rel_path": "image-views/index.md",
+      "scraped_at": "2026-11-18T15:08:15.649791+00:00",
+      "status": "ok",
+      "bytes": 4987
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/text-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/text-views",
+      "title": "Text views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/text-views",
+      "rel_path": "text-views/index.md",
+      "scraped_at": "2026-11-18T15:08:16.678983+00:00",
+      "status": "ok",
+      "bytes": 3310
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/web-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/web-views",
+      "title": "Web views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/web-views",
+      "rel_path": "web-views/index.md",
+      "scraped_at": "2026-11-18T15:08:17.745405+00:00",
+      "status": "ok",
+      "bytes": 1817
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/path-controls": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/path-controls",
+      "title": "Path controls",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/path-controls",
+      "rel_path": "path-controls/index.md",
+      "scraped_at": "2026-11-18T15:08:18.390854+00:00",
+      "status": "ok",
+      "bytes": 2712
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/token-fields": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/token-fields",
+      "title": "Token fields",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/token-fields",
+      "rel_path": "token-fields/index.md",
+      "scraped_at": "2026-11-18T15:08:19.823818+00:00",
+      "status": "ok",
+      "bytes": 3211
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/color-wells": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/color-wells",
+      "title": "Color wells",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/color-wells",
+      "rel_path": "color-wells/index.md",
+      "scraped_at": "2026-11-18T15:08:20.506673+00:00",
+      "status": "ok",
+      "bytes": 2263
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/combo-boxes": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/combo-boxes",
+      "title": "Combo boxes",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/combo-boxes",
+      "rel_path": "combo-boxes/index.md",
+      "scraped_at": "2026-11-18T15:08:21.502206+00:00",
+      "status": "ok",
+      "bytes": 2126
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/digit-entry-views": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/digit-entry-views",
+      "title": "Digit entry views",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/digit-entry-views",
+      "rel_path": "digit-entry-views/index.md",
+      "scraped_at": "2026-11-18T15:08:23.057762+00:00",
+      "status": "ok",
+      "bytes": 1500
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/image-wells": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/image-wells",
+      "title": "Image wells",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/image-wells",
+      "rel_path": "image-wells/index.md",
+      "scraped_at": "2026-11-18T15:08:23.783528+00:00",
+      "status": "ok",
+      "bytes": 1645
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/gauges": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/gauges",
+      "title": "Gauges",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/gauges",
+      "rel_path": "gauges/index.md",
+      "scraped_at": "2026-11-18T15:08:24.755659+00:00",
+      "status": "ok",
+      "bytes": 5143
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/rating-indicators": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/rating-indicators",
+      "title": "Rating indicators",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/rating-indicators",
+      "rel_path": "rating-indicators/index.md",
+      "scraped_at": "2026-11-18T15:08:26.097800+00:00",
+      "status": "ok",
+      "bytes": 1925
+    },
+    "https://developer.apple.com/design/Human-Interface-Guidelines/controls": {
+      "url": "https://developer.apple.com/design/Human-Interface-Guidelines/controls",
+      "title": "Controls",
+      "role": "article",
+      "identifier": "/design/Human-Interface-Guidelines/controls",
+      "rel_path": "controls/index.md",
+      "scraped_at": "2026-11-18T15:08:26.889200+00:00",
+      "status": "ok",
+      "bytes": 9521
+    }
+  }
+}
