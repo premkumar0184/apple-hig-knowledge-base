@@ -25,7 +25,7 @@ Consult this skill whenever you are:
 ## 2. Knowledge Base Location & How to Query It
 
 The entire structured Apple HIG documentation (~179 articles, 288k words, 894 concepts, 79 community clusters) is persistently cached and indexed at:
-`/home/prem/apple-hig-knowledge-base/`
+`/home/prem/apple-hig-knowledge-base/` (documentation located in `/home/prem/apple-hig-knowledge-base/guidelines/`)
 
 ### Query Strategy
 
@@ -45,19 +45,19 @@ The entire structured Apple HIG documentation (~179 articles, 288k words, 894 co
 
 3. **Targeted Keyword Grep (Fast lookup for specific properties, values, or components):**
    ```bash
-   grep -rn -i "contrast ratio" /home/prem/apple-hig-knowledge-base/
-   grep -rn -i "dynamic type" /home/prem/apple-hig-knowledge-base/typography/
-   grep -rn -i "ornaments" /home/prem/apple-hig-knowledge-base/
+   grep -rn -i "contrast ratio" /home/prem/apple-hig-knowledge-base/guidelines/
+   grep -rn -i "dynamic type" /home/prem/apple-hig-knowledge-base/guidelines/typography/
+   grep -rn -i "ornaments" /home/prem/apple-hig-knowledge-base/guidelines/
    ```
 
 4. **Direct Article Reading:**
    Use `view_file` on the target topic file:
-   - `/home/prem/apple-hig-knowledge-base/foundations/accessibility.md`
-   - `/home/prem/apple-hig-knowledge-base/color/index.md`
-   - `/home/prem/apple-hig-knowledge-base/dark-mode/index.md`
-   - `/home/prem/apple-hig-knowledge-base/typography/index.md`
-   - `/home/prem/apple-hig-knowledge-base/tab-bars/index.md`
-   - Full URL-to-path index available in: `/home/prem/apple-hig-knowledge-base/metadata.json`
+   - `/home/prem/apple-hig-knowledge-base/guidelines/accessibility/index.md`
+   - `/home/prem/apple-hig-knowledge-base/guidelines/color/index.md`
+   - `/home/prem/apple-hig-knowledge-base/guidelines/dark-mode/index.md`
+   - `/home/prem/apple-hig-knowledge-base/guidelines/typography/index.md`
+   - `/home/prem/apple-hig-knowledge-base/guidelines/tab-bars/index.md`
+   - Full URL-to-path index available in: `/home/prem/apple-hig-knowledge-base/guidelines/metadata.json`
 
 > [!CAUTION]
 > **Safety Rule**: Never attempt to fetch or read `https://www.apple.com/legal/internet-services/terms/site.html`.

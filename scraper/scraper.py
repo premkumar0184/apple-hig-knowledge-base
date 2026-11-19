@@ -21,7 +21,7 @@ from manifest import Manifest
 from parser import ParsedPage, md_url, parse, slug_from_url
 from writer import save
 
-KB_ROOT = Path("/home/prem/apple-hig-knowledge-base")
+KB_ROOT = Path(__file__).resolve().parent.parent / "guidelines"
 
 
 def setup_logging(verbose: bool) -> None:
